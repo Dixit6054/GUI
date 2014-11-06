@@ -3,7 +3,7 @@
 main()
 {
 	int x='10';
-	printf("helloworld1");
+	printf("helloworld");
 	
 }
 
